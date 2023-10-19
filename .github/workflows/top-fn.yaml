@@ -13,3 +13,4 @@ jobs:
         uses: snadi/TopModifiedFunctions@v1.1
         with:
           topn: 5
+          mainbranch: master
